@@ -1,1 +1,2 @@
-Calculadora de gorjetas usada no projeto do curso OneBitCode.# Tip_calculater
+Produzindo uma calculadora de gorjetas usando HTML, CSS e Javascript.
+
